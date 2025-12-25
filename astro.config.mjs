@@ -8,5 +8,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: 'https://mash378.github.io',
-  base: '/portfolio/',   
+  base: '/portfolio-v2/',   
 });
