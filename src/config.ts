@@ -15,7 +15,7 @@ export const siteConfig = {
     {
       name: "DoorDash Delivery",
       description:
-        "End-to-end machine learning pipeline using XGBoost, feature engineering, MAE-based evaluation, and deployment via Gradio.",
+        "Developed and deployed an end-to-end ML pipeline using XGBoost, performing feature engineering, model evaluation with MAE, and serving predictions through a Gradio interface hosted on Hugging Face Spaces.",
       link: "https://huggingface.co/spaces/Mash37/DoorDash_Delivery_time_predictor",
       skills: ["Python", "Feature Engineering & Regression Modeling", "Hugging Face"],
     },
